@@ -104,7 +104,7 @@ function Home() {
                     </Form.Item>
                     <Form.Item>
                         <button type="submit" className="bg-blue-500 text-white w-full rounded-md p-2 hover:bg-blue-600 transition duration-200">
-                            Saqlash
+                            Save
                         </button>
                     </Form.Item>
                 </Form>
