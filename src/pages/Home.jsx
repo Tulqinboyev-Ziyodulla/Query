@@ -11,9 +11,7 @@ function Home() {
     const [form] = Form.useForm();
 
     message.config({
-        top: 80, 
-        duration: 3,
-        maxCount: 1,
+        top: 80, duration: 3,maxCount: 1,
     });
 
     const getAllStudents = async () => {
